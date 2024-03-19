@@ -56,6 +56,10 @@
         height: fit-content;
         margin-bottom: 2rem;
     }
+    .nav-links-container {
+        margin-top: 0rem;
+    }
+
     .about-container, 
     .contact-info-upper-container, 
     .btn-container {
